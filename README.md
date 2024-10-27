@@ -1,6 +1,4 @@
-Here’s an updated README with more details on the labs:
 
-markdown
 
 # **Computer Vision Course - Labs and Theoretical Exercises (2022-2023 Spring Semester, ECE NTUA)**
 
