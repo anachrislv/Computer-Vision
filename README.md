@@ -1,16 +1,13 @@
-# **Computer Vision Course - Labs and Theoretical Exercises (2022-2023 Spring Semester)**
+# **Computer Vision Course - Labs and Theoretical Exercises (2022-2023 Spring Semester, ECE NTUA)**
 
-This repository contains all lab assignments and theoretical exercises completed as part of the **Computer Vision** course during the **2022-2023 Spring Semester**.
+This repository contains labs and theoretical exercises completed as part of the **Computer Vision** course at **ECE, NTUA** during the **2022-2023 Spring Semester**.
 
 ## **Authors**
-- **George Kaoukis**
 - **Anastasia Christina Liva**
+- **George Kaoukis**
 
+## **Contents**
+- **Lab Exercises**:
+  - **Lab 1**: Edge detection and interest point detection using filters such as Gaussian and Laplacian, with noise management techniques.
+  - **Lab 2**: Optical flow estimation with Lucas-Kanade, feature extraction, and tracking for face and hand movements in videos.
 
-## **Project Overview**
-This repository includes:
-- **Lab Assignments**: Practical exercises and projects exploring various aspects of computer vision.
-- **Theoretical Exercises**: Solutions and detailed explanations for theoretical problems covered in the course.
-
-## **Collaboration**
-All work in this repository was completed collaboratively by **George Kaoukis** and **Anastasia Christina Liva**.
