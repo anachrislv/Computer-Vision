@@ -1,9 +1,16 @@
-This repository contains the labs and theoretical exercises completed as part of the Computer Vision course during the 2022-2023 Spring Semester.
-Authors
+# **Computer Vision Course - Labs and Theoretical Exercises (2022-2023 Spring Semester)**
 
-    Anastasia Christina Liva
-    George Kaoukis
+This repository contains all lab assignments and theoretical exercises completed as part of the **Computer Vision** course during the **2022-2023 Spring Semester**.
 
-Description
+## **Authors**
+- **George Kaoukis**
+- **Anastasia Christina Liva**
 
-All lab assignments and theoretical exercises were completed collaboratively by Anastasia Christina Liva and George Kaoukis as part of our coursework. This work includes practical implementations, explorations, and solutions to theoretical exercises relevant to computer vision concepts taught throughout the semester.
+
+## **Project Overview**
+This repository includes:
+- **Lab Assignments**: Practical exercises and projects exploring various aspects of computer vision.
+- **Theoretical Exercises**: Solutions and detailed explanations for theoretical problems covered in the course.
+
+## **Collaboration**
+All work in this repository was completed collaboratively by **George Kaoukis** and **Anastasia Christina Liva**.
